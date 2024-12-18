@@ -1,0 +1,246 @@
+
+    {
+        "Type": "menubar",
+        "MenuBar": [
+            {
+                "id": 1,
+                "icon": "https://www.svgrepo.com/show/433032/dashboard.svg",
+                "url": "https://stackoverflow.com/",
+                "label": "Dashboard",
+                "dropdown": "true",
+                "dropdownBar": [
+                    {
+                        "id": 1,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "Dashboard",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "Dashboard",
+                                "url": "https://dev.playground.appstudioltts.com/#/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "File",
+                        "url": "https://www.w3schools.com/",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "File",
+                                "url": "https://www.w3schools.com/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "icon": "https://tse4.mm.bing.net/th/id/OIP._KzKGMtgcHMHIWqH26dMfgHaHa?rs=1&pid=ImgDetMain",
+                "label": "Manage",
+                "url": "https://www.hackerrank.com",
+                "dropdown": "true",
+                "dropdownBar": [
+                    {
+                        "id": 1,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "Dashboard",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "Dashboard",
+                                "url": "https://dev.playground.appstudioltts.com/#/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "File",
+                        "url": "https://www.w3schools.com/",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "File",
+                                "url": "https://www.w3schools.com/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "icon": "https://tse1.mm.bing.net/th/id/OIP.ds-Jgvs69qRcqBqnaBRvNQHaHa?rs=1&pid=ImgDetMain",
+                "label": "Pipelines",
+                "url": "https://github.com/",
+                "dropdown": "true",
+                "dropdownBar": [
+                    {
+                        "id": 1,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "Dashboard",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "Dashboard",
+                                "url": "https://dev.playground.appstudioltts.com/#/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "File",
+                        "url": "https://www.w3schools.com/",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "File",
+                                "url": "https://www.w3schools.com/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "icon": "https://tse1.mm.bing.net/th/id/OIP._l7yDMeWyDCcytU1pdEcogHaHa?rs=1&pid=ImgDetMain",
+                "label": "Notifications",
+                "url": "https://stackoverflow.com/",
+                "dropdown": "true",
+                "dropdownBar": [
+                    {
+                        "id": 1,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "Dashboard",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "Dashboard",
+                                "url": "https://dev.playground.appstudioltts.com/#/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "File",
+                        "url": "https://www.w3schools.com/",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "File",
+                                "url": "https://www.w3schools.com/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "icon": "https://tse3.mm.bing.net/th/id/OIP.qm6USNVaMkInbC5jAmCqbQHaHb?w=980&h=984&rs=1&pid=ImgDetMain",
+                "label": "User Manager",
+                "url": "https://www.google.com/",
+                "dropdown": "true",
+                "dropdownBar": [
+                    {
+                        "id": 1,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "Dashboard",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "Dashboard",
+                                "url": "https://dev.playground.appstudioltts.com/#/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "File",
+                        "url": "https://www.w3schools.com/",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "File",
+                                "url": "https://www.w3schools.com/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "icon": "https://cdn3.iconfinder.com/data/icons/devops-cycle/25/devops_cycle_1-1024.png",
+                "label": "Devops Assesment",
+                "url": "https://www.npmjs.com/",
+                "dropdown": "true",
+                "dropdownBar": [
+                    {
+                        "id": 1,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "Dashboard",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "Dashboard",
+                                "url": "https://dev.playground.appstudioltts.com/#/",
+                                "dropdown": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                        "label": "File",
+                        "url": "https://www.w3schools.com/",
+                        "dropdown": "true",
+                        "dropdownBar": [
+                            {
+                                "id": 1,
+                                "icon": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?size=626&ext=jpg",
+                                "label": "File",
+                                "url": "https://ritikportfolio16.netlify.app",
+                                "dropdown": "true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }

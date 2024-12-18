@@ -1,0 +1,46 @@
+[
+    {
+    "username": "alice_dev",
+    "ticketid": "PROJ1",
+    "ticket-title": "Implement login feature",
+    "status": "new"
+    },
+    {
+    "username": "bob_qa",
+    "ticketid": "PROJ2",
+    "ticket-title": "Fix navigation bug",
+    "status": "active"
+    },
+    {
+    "username": "carol_writer",
+    "ticketid": "PROJ3",
+    "ticket-title": "Update user documentation",
+    "status": "new"
+    },
+    {
+    "username": "david_dba",
+    "ticketid": "PROJ4",
+    "ticket-title": "Optimize database queries",
+    "status": "resolved"
+    },
+    {
+    "username": "eve_designer",
+    "ticketid": "PROJ5",
+    "ticket-title": "Design new logo",
+    "status": "active"
+    },
+    {
+    "username": "frank_dev",
+    "ticketid": "PROJ6",
+    "ticket-title": "Working with REACT",
+    "status": "closed"
+    },
+    {
+    "statusColors": {
+    "new": "#EF0107",
+    "active": "#00308F",
+    "resolved": "#FFD700",
+    "closed": "#03C03C"
+    }
+    }
+    ]

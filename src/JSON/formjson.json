@@ -1,0 +1,60 @@
+[
+  {
+      "page_label": "My Data form",
+     
+      "fields": [
+          {
+              "field_id": "fname",
+              "field_label": "Name",
+              "field_mandatory": "true",
+              "field_placeholder": "Enter first name",
+              "field_type": "text",
+              "field_value": ""
+          },
+          {
+              "field_id": "country",
+              "field_label": "Country",
+              "field_mandatory": "true",
+              "field_placeholder": "Enter country name",
+              "field_type": "text",
+              "field_value": ""
+          },
+          {
+              "field_id": "gender",
+              "field_label": "Gender",
+              "field_value": "male", 
+              "field_mandatory": "true",
+              "field_options": [
+                  {
+                      "value": "male",
+                      "label": "Male"
+                  },
+                  {
+                      "value": "female",
+                      "label": "Female"
+                  },
+                  {
+                      "value": "others",
+                      "label": "Others"
+                  }
+              ],
+              "field_type": "select"
+          },
+          {
+              "field_id": "contact",
+              "field_label": "Contact No.",
+              "field_mandatory": "true",
+              "field_placeholder": "Enter contact no.",
+              "field_type": "number",
+              "field_value": ""
+          },
+         
+         
+          {
+              "field_id": "button",
+              "field_label": "Submit",
+              "field_type": "button"
+          }
+      ]
+  }
+]

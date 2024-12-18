@@ -1,0 +1,20 @@
+{
+    "applicationName": "AppStudio",
+    "category": [
+        {
+            "name": "General"
+        },
+        {
+            "name": "Graphs/charts"
+        },
+        {
+            "name": "Forms"
+        },
+        {
+            "name": "Generic UI"
+        },
+        {
+            "name": "Navigation"
+        }
+    ]
+}

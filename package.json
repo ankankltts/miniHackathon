@@ -3,11 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.7.1",
+    "@ltts-dtp-appstudio/react-forms": "^0.1.8",
+    "@ltts-dtp-appstudio/react-genericui": "^2.9.32",
+    "@ltts-dtp-appstudio/react-graphscharts": "^0.5.39",
+    "@ltts-dtp-appstudio/react-mediaview": "^0.5.17",
+    "@ltts-dtp-appstudio/react-navigation": "^0.5.5",
+    "@ltts-dtp-appstudio/react-restingdisplay": "^2.1.11",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "axios": "^1.7.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -34,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
   }
 }
